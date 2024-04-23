@@ -1,2 +1,2 @@
-# CoinChat Server Node
-CoinChat's server
+# ***Archived***
+CoinChat Server Node
